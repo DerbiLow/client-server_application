@@ -51,20 +51,22 @@
 
 # Пример работы программы
 
-Таблица после создания скрипта<br>
-
+Таблица после создания<br>
+![Снимок2](https://github.com/user-attachments/assets/992b4d1c-40d4-4a5c-806f-701f1ec22ea1)
 
 Процесс сбора информации<br>
-
+![Снимок1](https://github.com/user-attachments/assets/e8d2af21-76d8-44c1-b3a1-3817deea37b8)
+![Снимок](https://github.com/user-attachments/assets/e1cd1e3d-070b-4eae-b6f4-ceca29013cdb)<br>
+![Снимок3](https://github.com/user-attachments/assets/2b4df12d-0d34-4edd-b720-5cae711bd6b9)<br>
 
 Процесс обработки информации и записи ее в БД<br>
-
+![Снимок4](https://github.com/user-attachments/assets/24cbc5e2-2ecd-44b6-b3f4-a16568cf1931)
 
 Информация в БД<br>
-
+![Снимок5](https://github.com/user-attachments/assets/fa744478-8261-493f-b0da-6cf1a5b7e542)
 
 Пример критического сообщения<br>
-
+![Снимок6](https://github.com/user-attachments/assets/6fb0bcde-b632-45b5-ac6c-3a6a493e4da9)
 
 
 # Техническая информация
