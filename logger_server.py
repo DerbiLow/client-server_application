@@ -309,6 +309,7 @@ while True:
                         data_type = (time_1[a], Disk_C[a], Disk_D[a], Core1[a], Core2[a], Core3[a], Core4[a], Core5[a], Core6[a], Core7[a], Core8[a], cpu[a], ram[a], vram[a], gpu_load[a], gpu_temp[a], gpu_ram[a], crit_message)
                         cursor.execute(insert, data_type)
                         conn.commit()
+                        crit_message = ""
                     time_1 = [None] * 61
                     Disk_C = [0.0] * 61
                     Disk_D = [0.0] * 61
